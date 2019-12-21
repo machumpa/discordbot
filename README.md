@@ -1,0 +1,2 @@
+# discordbot
+hosting na heroku
